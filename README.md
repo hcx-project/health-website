@@ -1,2 +1,2 @@
-# health-website
-Website for Health Claims Exchange
+# website
+Website for Claims Exchange
