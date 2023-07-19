@@ -199,7 +199,7 @@ body {
   position: relative;
   width: 100%;
   top: -2rem;
-  background-color: $secondary;
+  background-color: $goal-wrapper;
   border-radius: 1rem;
   box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.12);
   padding: 1rem;
@@ -370,7 +370,7 @@ p {
 .section-subhead {
   display: inline-block;
   font-size: 1em;
-  color: $primary;
+  color: $text-secondary;
   font-weight: bold;
   padding: 2em 0 0.5em;
   margin: 0;
