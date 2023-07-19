@@ -1,4 +1,4 @@
-baseURL = "https://health.hcxprotocol.io"
+baseURL = "http://ig.hcxprotocol.io/health-website/"
 title = "Health Claims Exchange"
 description = "Open-source, community driven protocol for de decentralised Health Claims data Exchange"
 

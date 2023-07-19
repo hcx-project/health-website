@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health Claims Exchange – Tags</title>
-    <link>https://health.hcxprotocol.io/tags/</link>
+    <link>http://ig.hcxprotocol.io/health-website/tags/</link>
     <description>Recent content in Tags on Health Claims Exchange</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://health.hcxprotocol.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://ig.hcxprotocol.io/health-website/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
       
