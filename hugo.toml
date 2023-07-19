@@ -9,9 +9,12 @@ publishDir = "docs"
 
 # language settings
 contentDir = "content/en"
-defaultContentLanguage = "en"
-# tell Hugo not to include the /en/ element in the URL path for English docs
-defaultContentLanguageInSubdir = false
+
+[languages.en.params]
+  defaultContentLanguage = "en"
+  # tell Hugo not to include the /en/ element in the URL path for English docs
+  defaultContentLanguageInSubdir = false
+
 # useful when translating
 enableMissingTranslationPlaceholders = true
 # disable taxonomies
