@@ -27,10 +27,8 @@ a {
 // custom navbar with larger logo, dropdown on mobile
 // --------------------------------------------------
 .td-navbar {
-  background: none;
   min-height: auto;
   padding: 0.5rem 1rem;
-  position: absolute;
 
   .navbar-brand {
     margin: 0;
@@ -310,18 +308,6 @@ p {
 }
 
 .cta {
-  background-color: $cta;
-
-  &:hover {
-    background-color: $cta-dark;
-  }
-
-  &:focus {
-    box-shadow: 0 0 0 0.2rem rgba(255, 193, 7, 0.5);
-  }
-}
-
-.hcx-cta {
   background-color: $cta;
 
   &:hover {

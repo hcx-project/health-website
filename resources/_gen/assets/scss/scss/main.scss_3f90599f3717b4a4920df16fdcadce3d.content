@@ -20599,10 +20599,8 @@ a {
   overflow-wrap: break-word; }
 
 .td-navbar {
-  background: none;
   min-height: auto;
-  padding: 0.5rem 1rem;
-  position: absolute; }
+  padding: 0.5rem 1rem; }
   .td-navbar .navbar-brand {
     margin: 0;
     padding: 0; }
@@ -20793,13 +20791,6 @@ p {
   .cta:hover {
     background-color: #28a745; }
   .cta:focus {
-    box-shadow: 0 0 0 0.2rem rgba(255, 193, 7, 0.5); }
-
-.hcx-cta {
-  background-color: #28a745; }
-  .hcx-cta:hover {
-    background-color: #28a745; }
-  .hcx-cta:focus {
     box-shadow: 0 0 0 0.2rem rgba(255, 193, 7, 0.5); }
 
 .card-img-top {
