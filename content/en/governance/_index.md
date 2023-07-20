@@ -55,7 +55,7 @@ The governance body is accountable to the community. It ensures that decisions a
 The governance framework is designed to evolve and adapt as the community grows and the protocol develops. It allows for the incorporation of new ideas, emerging technologies, and changing needs.
 </section>
 
-<section id="governance_principles" class='governance-section td-box td-box--white td-box--height-auto'>
+<section id="governance_principles" class='governance-section'>
 
 ## Protocol design principles 
 ---
@@ -97,11 +97,11 @@ They should strive to break down the complexity of the domain into multiple simp
 The governance body comprises elected representatives from within the community and the anchor organisation (<a href="https://swasthalliance.org" style="color:#335CFF;" target="_blank">Swasth</a>). These representatives serve as stewards of the protocol and work collaboratively to make decisions on behalf of the community. They are responsible for coordinating efforts, overseeing technical developments, establishing standards, and resolving governance-related matters. 
 
 
-Community Engagement:
+##### Community Engagement:
 The community is encouraged to actively engage in the governance process. Community members can contribute through discussions, proposing ideas, submitting feedback, participating in working groups, and taking part in the decision-making process. Regular updates, community meetings, and open forums provide opportunities for community members to voice their opinions and shape the direction of the protocol.
 
 
-Continuous Improvement:
+##### Continuous Improvement:
 The governance structure is designed to continuously improve and refine its processes. The community regularly assesses the effectiveness of governance mechanisms, incorporating feedback and implementing improvements as necessary. This ensures that the governance framework remains robust, responsive, and aligned with the evolving needs of the community.
 
 ### Goevrnance Process
