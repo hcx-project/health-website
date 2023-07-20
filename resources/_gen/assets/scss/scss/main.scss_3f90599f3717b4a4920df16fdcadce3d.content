@@ -20601,7 +20601,8 @@ a {
 .td-navbar {
   background: none;
   min-height: auto;
-  padding: 0.5rem 1rem; }
+  padding: 0.5rem 1rem;
+  position: absolute; }
   .td-navbar .navbar-brand {
     margin: 0;
     padding: 0; }
@@ -20739,6 +20740,7 @@ p {
   color: #000000;
   text-shadow: none; }
   .td-navbar .navbar-nav .nav-link:hover, .td-navbar .navbar-nav .nav-link:focus {
+    color: rgba(0, 0, 0, 0.6);
     text-shadow: rgba(221, 221, 221, 0.5); }
 
 #hero {

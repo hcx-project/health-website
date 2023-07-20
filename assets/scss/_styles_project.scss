@@ -30,7 +30,7 @@ a {
   background: none;
   min-height: auto;
   padding: 0.5rem 1rem;
-  
+  position: absolute;
 
   .navbar-brand {
     margin: 0;
@@ -240,6 +240,7 @@ p {
   text-shadow: none;
 
   &:hover, &:focus {
+    color: $text-secondary;
     text-shadow: $lightgray;
   }
 }

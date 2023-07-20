@@ -1,8 +1,17 @@
 +++
 title = "Governance"
 description = 'HCX Governance'
-bannerTitle = "Governance - Principles and Approach"
+bannerTitle = "Governance"
+bannerSubtitle = 'Community driven, open, consulative approach'
 bannerUrl = "../images/gov-img.svg"
+[[cta]]
+  type = 'primary'
+  name = "Contribute"
+  url = "https://discord.gg/uhza5nr3sq"
+[[cta]]
+  type = 'secondary'
+  name = "Documentation"
+  url = "https://docs.hcxprotocol.io"
 +++
 
 <section id="goal" class="row align-items-center text-center text-md-left">
@@ -23,9 +32,10 @@ bannerUrl = "../images/gov-img.svg"
   </div>
 </section>
 
-<section id="governance" class='governance-section'>
 
-## Key governance principles
+<section id="governance_principles" class='governance-section'>
+
+## Governance principles
 ---
 <br/>
 
@@ -43,9 +53,11 @@ The governance body is accountable to the community. It ensures that decisions a
 
 ##### Adaptability
 The governance framework is designed to evolve and adapt as the community grows and the protocol develops. It allows for the incorporation of new ideas, emerging technologies, and changing needs.
+</section>
 
+<section id="governance_principles" class='governance-section td-box td-box--white td-box--height-auto'>
 
-## Key protocol design principles 
+## Protocol design principles 
 ---
 </br>
 
@@ -73,6 +85,9 @@ They must provide mechanisms to view and verify attribute trails - who accessed 
 ##### Unbundled
 They should strive to break down the complexity of the domain into multiple simple pieces thereby resulting in multiple simple specifications which can be bundled in a modular manner to suit the needed context and help solve dynamic challenges.
 
+</section>
+
+<section id="governance_principles" class='governance-section'>
 
 ## Governance Approach
 ---
