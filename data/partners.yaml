@@ -1,5 +1,5 @@
 '0':
-  name: Hospitals
+  name: Health Providers
   items:
     - url: images/partners/hospitals/apollo.png
       alt: apollo hospital logo
@@ -62,14 +62,18 @@
     - url: images/partners/insuretech/policy_bazaar.png
       alt: policy bazaar logo
 '3':
-  name: TPAs
+  name: TPAs and Associations
   items:
     - url: images/partners/tpa/fhpl.png
-      alt: fhpl logo
+      alt: FHPL logo
     - url: images/partners/tpa/medi-assist.png
-      alt: medi-assist logo
+      alt: Medi-Assist logo
+    - url: images/partners/associations/caho.png
+      alt: CAHO logo
+    - url: images/partners/associations/ficci.png
+      alt: FICCI logo
 '4':
-  name: Think Tanks
+  name: Think Tanks and Foundations
   items:
     - url: images/partners/thinktanks/access-international.png
       alt: access international logo
@@ -79,15 +83,5 @@
       alt: ispirt logo
     - url: images/partners/thinktanks/swasth.png
       alt: swasth logo
-'5':
-  name: Associations
-  items:
-    - url: images/partners/associations/caho.png
-      alt: C A H O logo
-    - url: images/partners/associations/ficci.png
-      alt: ficci logo
-'6':
-  name: Community Health
-  items:
     - url: images/partners/community/healing-fields.png
       alt: healing fields logo

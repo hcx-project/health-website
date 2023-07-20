@@ -20599,6 +20599,7 @@ a {
   overflow-wrap: break-word; }
 
 .td-navbar {
+  background: none;
   min-height: auto;
   padding: 0.5rem 1rem; }
   .td-navbar .navbar-brand {
@@ -20812,7 +20813,7 @@ p {
       padding: 2rem 5rem; } }
 .section-head {
   font-size: 1.75em;
-  color: rgba(0, 0, 0, 0.87);
+  color: #000000;
   font-weight: bold;
   text-align: center; }
   @media (min-width: 992px) {
@@ -20868,7 +20869,7 @@ p {
 
 hr {
   height: 2px;
-  background-color: #0056b3;
+  background-color: #0046EA;
   border: none; }
 
 .control {
@@ -20892,7 +20893,7 @@ hr {
   border: none; }
 
 #stakeholders .card-title, #benefits .card-title, #resources .card-title {
-  color: rgba(0, 0, 0, 0.87);
+  color: #000000;
   font-weight: 700;
   font-size: 1em; }
 
@@ -20987,7 +20988,7 @@ hr {
       line-height: 1.25; } }
 .volunteer-title {
   border: none;
-  color: rgba(0, 0, 0, 0.87);
+  color: #000000;
   font-weight: 400;
   transition: color 0.2s ease-in, font-weight 0.2s ease-in; }
   .volunteer-title:hover {
@@ -21009,7 +21010,7 @@ hr {
     margin-bottom: 0;
     border: none;
     padding: 0;
-    background-color: #000000; }
+    background-color: #fff; }
   .accordion > .card > .collapse, .td-content .accordion > .highlight > .collapse {
     border-width: 0; }
 
@@ -21024,9 +21025,9 @@ hr {
   padding: 1.25rem 1.5rem;
   font-size: 1.25rem;
   font-weight: 700;
-  color: rgba(0, 0, 0, 0.87);
+  color: #000000;
   text-align: left;
-  background-color: #000000;
+  background-color: #fff;
   border: 0;
   border-radius: 0;
   overflow-anchor: none;

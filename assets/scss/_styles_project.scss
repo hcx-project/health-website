@@ -27,6 +27,7 @@ a {
 // custom navbar with larger logo, dropdown on mobile
 // --------------------------------------------------
 .td-navbar {
+  background: none;
   min-height: auto;
   padding: 0.5rem 1rem;
   
@@ -612,7 +613,7 @@ hr {
         margin-bottom: 0;
         border: none;
         padding: 0;
-        background-color: $secondary;
+        background-color: $white;
         }
 
       > .collapse {
@@ -636,7 +637,7 @@ hr {
   font-weight: 700;
   color: $text-primary;
   text-align: left;
-  background-color: $secondary;
+  background-color: $white;
   border: 0;
   border-radius: 0;
   overflow-anchor: none;
