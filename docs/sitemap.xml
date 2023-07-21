@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ig.hcxprotocol.io/health-website/blog/</loc>
+    <loc>http://hcxprotocol.io/blog/</loc>
     <lastmod>2023-07-19T11:47:13+05:30</lastmod>
   </url><url>
-    <loc>http://ig.hcxprotocol.io/health-website/categories/</loc>
+    <loc>http://hcxprotocol.io/categories/</loc>
   </url><url>
-    <loc>http://ig.hcxprotocol.io/health-website/community/</loc>
+    <loc>http://hcxprotocol.io/community/</loc>
     <lastmod>2023-07-20T22:59:13+05:30</lastmod>
   </url><url>
-    <loc>http://ig.hcxprotocol.io/health-website/faq/</loc>
+    <loc>http://hcxprotocol.io/faq/</loc>
     <lastmod>2023-07-20T15:23:18+05:30</lastmod>
   </url><url>
-    <loc>http://ig.hcxprotocol.io/health-website/governance/</loc>
+    <loc>http://hcxprotocol.io/governance/</loc>
     <lastmod>2023-07-21T10:47:18+05:30</lastmod>
   </url><url>
-    <loc>http://ig.hcxprotocol.io/health-website/</loc>
+    <loc>http://hcxprotocol.io/</loc>
     <lastmod>2023-07-20T22:59:13+05:30</lastmod>
   </url><url>
-    <loc>http://ig.hcxprotocol.io/health-website/tags/</loc>
+    <loc>http://hcxprotocol.io/tags/</loc>
   </url>
 </urlset>
