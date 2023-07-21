@@ -118,7 +118,7 @@ The broad outline of the process would be:
 8. The working group reviews public consultation feedback and incorporates the necessary changes. (Any inputs not included will receive responses too).
 9. Specifications shall be published for wider adoption.
 10. Specifications are made available through most permissible licenses like MIT or Creative Commons.
-12. In the due course of time, a fully independent ethics and conflicts committee to act as an appellate authority for all protocol-related work, including oversight of governance body.
+12. In the due course of time, a fully independent ethics and conflicts committee to act as an appellate authority for all protocol-related work, including oversight of the governance body.
 13. All deliberations, minutes, and documents produced by the ethics and conflicts committee, specifications governance council, and working groups will be made publicly available.
 
 <br />
