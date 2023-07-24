@@ -1,6 +1,10 @@
 '0':
   name: Health Providers
   items:
+    - url: images/partners/hospitals/NarayanaHealth.jpeg
+      alt: Narayana Health logo
+    - url: images/partners/hospitals/AyuHealth.jpeg
+      alt: Ayu Health logo     
     - url: images/partners/hospitals/apollo.png
       alt: apollo hospital logo
     - url: images/partners/hospitals/medanta.png
@@ -11,21 +15,23 @@
       alt: ujala cygnus hospital logo
     - url: images/partners/hospitals/manipal.png
       alt: manipal hospital logo
-    - url: images/partners/hospitals/columbia_asia.png
-      alt: columbia asia hospital logo
     - url: images/partners/hospitals/gnrc.png
       alt: gnrc hospital logo
 '1':
   name: Insurers
   items:
-    - url: images/partners/insurers/acko.png
-      alt: acko insurance logo
+    - url: images/partners/insurers/max-bupa.png
+      alt: max bupa insurance logo
     - url: images/partners/insurers/aditya-birla.png
       alt: aditya birla insurance logo
+    - url: images/partners/insurers/MagmaHDI.png
+      alt: Magma HDI logo
+    - url: images/partners/insurers/acko.png
+      alt: acko insurance logo
     - url: images/partners/insurers/bajaj_allianz.png
       alt: bajaj allianz insurance logo
     - url: images/partners/insurers/care.png
-      alt: care insurance logo
+      alt: care insurance logo     
     - url: images/partners/insurers/ergo.png
       alt: hdfc ergo insurance logo
     - url: images/partners/insurers/icici-lombard.png
@@ -38,15 +44,31 @@
       alt: uplift mutuals insurance logo
     - url: images/partners/insurers/star-health.png
       alt: star health insurance logo
-    - url: images/partners/insurers/max-bupa.png
-      alt: max bupa insurance logo
     - url: images/partners/insurers/manipal-cigna.png
       alt: manipal cigna insurance logo
 '2':
-  name: HMIS/Claims Platforms/InsureTech
+  name: Technology Service Providers (TSPs)
   items:
-    - url: images/partners/insuretech/caresoft.png
-      alt: caresoft logo
+    - url: images/partners/insuretech/10BedICU.png
+      alt: 10 Bed ICU logo
+    - url: images/partners/insuretech/Drucare.jpeg
+      alt: DruCare logo
+    - url: images/partners/insuretech/kaksya.png
+      alt: Kaksya logo
+    - url: images/partners/insuretech/BajajFinserv.jpeg
+      alt: Bajaj FinServ logo
+    - url: images/partners/insuretech/Practo.png
+      alt: Practo logo
+    - url: images/partners/insuretech/EkaCare.png
+      alt: Eka care logo
+    - url: images/partners/insuretech/Meddo.jpeg
+      alt: Meddo logo
+    - url: images/partners/insuretech/Clinikk.png
+      alt: Clinikk logo
+    - url: images/partners/insuretech/CoverSelf.png
+      alt: Cover Self logo
+    - url: images/partners/insuretech/truecover.jpeg
+      alt: TrueCover logo
     - url: images/partners/insuretech/eoxegen.png
       alt: eoxegen logo
     - url: images/partners/insuretech/ict-health.png
@@ -55,12 +77,18 @@
       alt: ihx logo
     - url: images/partners/insuretech/uttam.png
       alt: uttam logo
+    - url: images/partners/insuretech/Milliman.png
+      alt: Milliman logo      
     - url: images/partners/insuretech/srishti-software.png
       alt: srishti software logo
     - url: images/partners/insuretech/vitraya.png
       alt: vitraya logo
     - url: images/partners/insuretech/policy_bazaar.png
       alt: policy bazaar logo
+    - url: images/partners/insuretech/Sanketika.jpeg
+      alt: Sanketika logo    
+    - url: images/partners/insuretech/thoughtworks.jpeg
+      alt: ThoughtWorks logo      
 '3':
   name: TPAs and Associations
   items:
@@ -72,6 +100,9 @@
       alt: CAHO logo
     - url: images/partners/associations/ficci.png
       alt: FICCI logo
+    - url: images/partners/associations/HxCo.png
+      alt: HxCo logo
+
 '4':
   name: Think Tanks and Foundations
   items:
