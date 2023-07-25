@@ -1,118 +1,174 @@
 '0':
   name: Health Providers
   items:
-    - url: images/partners/hospitals/NarayanaHealth.jpeg
-      alt: Narayana Health logo
-    - url: images/partners/hospitals/AyuHealth.jpeg
-      alt: Ayu Health logo     
     - url: images/partners/hospitals/apollo.png
       alt: apollo hospital logo
-    - url: images/partners/hospitals/medanta.png
-      alt: medanta hospital logo
-    - url: images/partners/hospitals/hinduja.png
-      alt: hinduja hospital logo
-    - url: images/partners/hospitals/ujala-cygnus.png
-      alt: ujala cygnus hospital logo
-    - url: images/partners/hospitals/manipal.png
-      alt: manipal hospital logo
+      website: https://www.apollohospitals.com/
+    - url: images/partners/hospitals/AyuHealth.jpeg
+      alt: Ayu Health logo     
+      website: https://ayu.health/
     - url: images/partners/hospitals/gnrc.png
       alt: gnrc hospital logo
+      website: https://gnrchospitals.com/
+    - url: images/partners/hospitals/hinduja.png
+      alt: hinduja hospital logo
+      website: https://www.hindujahospital.com/
+    - url: images/partners/hospitals/manipal.png
+      alt: manipal hospital logo
+      website: https://www.manipalhospitals.com/
+    - url: images/partners/hospitals/medanta.png
+      alt: medanta hospital logo
+      website: https://www.medanta.org/
+    - url: images/partners/hospitals/NarayanaHealth.jpeg
+      alt: Narayana Health logo
+      website: https://www.narayanahealth.org/ 
+    - url: images/partners/hospitals/ujala-cygnus.png
+      alt: ujala cygnus hospital logo
+      website: https://ujalacygnus.com/
+
 '1':
   name: Insurers
   items:
-    - url: images/partners/insurers/max-bupa.png
-      alt: max bupa insurance logo
-    - url: images/partners/insurers/aditya-birla.png
-      alt: aditya birla insurance logo
-    - url: images/partners/insurers/MagmaHDI.png
-      alt: Magma HDI logo
     - url: images/partners/insurers/acko.png
       alt: acko insurance logo
+      website: https://www.acko.com/
+    - url: images/partners/insurers/aditya-birla.png
+      alt: aditya birla insurance logo
+      website:  https://www.adityabirlacapital.com/
     - url: images/partners/insurers/bajaj_allianz.png
       alt: bajaj allianz insurance logo
+      website: http://www.bajajallianz.com/
     - url: images/partners/insurers/care.png
-      alt: care insurance logo     
+      alt: care insurance logo    
+      website:  http://www.careinsurance.com/
     - url: images/partners/insurers/ergo.png
       alt: hdfc ergo insurance logo
-    - url: images/partners/insurers/icici-lombard.png
-      alt: icici-lombard insurance logo
-    - url: images/partners/insurers/navi.png
-      alt: navi insurance logo
-    - url: images/partners/insurers/tata-aig.png
-      alt: tata aig insurance logo
-    - url: images/partners/insurers/uplift-mutuals.png
-      alt: uplift mutuals insurance logo
-    - url: images/partners/insurers/star-health.png
-      alt: star health insurance logo
+      website: https://www.hdfcergo.com/
+    - url: images/partners/insurers/MagmaHDI.png
+      alt: Magma HDI logo
+      website: https://www.magmahdi.com/
     - url: images/partners/insurers/manipal-cigna.png
       alt: manipal cigna insurance logo
+      website: http://www.manipalcigna.com/
+    - url: images/partners/insurers/navi.png
+      alt: navi insurance logo
+      website: https://navi.com/insurance
+    - url: images/partners/insurers/niva.jpeg
+      alt: Niva bupa insurance logo
+      website: https://www.nivabupa.com/
+    - url: images/partners/insurers/star-health.png
+      alt: star health insurance logo
+      website: https://www.starhealth.in/
+    - url: images/partners/insurers/tata-aig.png
+      alt: tata aig insurance logo
+      website: http://www.tataaig.com/
+    - url: images/partners/insurers/uplift-mutuals.png
+      alt: uplift mutuals insurance logo
+      website: https://www.upliftmutuals.org/
+
+
 '2':
   name: Technology Service Providers (TSPs)
   items:
     - url: images/partners/insuretech/10BedICU.png
       alt: 10 Bed ICU logo
-    - url: images/partners/insuretech/Drucare.jpeg
-      alt: DruCare logo
-    - url: images/partners/insuretech/kaksya.png
-      alt: Kaksya logo
+      website:  https://10bedicu.org/
     - url: images/partners/insuretech/BajajFinserv.jpeg
       alt: Bajaj FinServ logo
-    - url: images/partners/insuretech/Practo.png
-      alt: Practo logo
-    - url: images/partners/insuretech/EkaCare.png
-      alt: Eka care logo
-    - url: images/partners/insuretech/Meddo.jpeg
-      alt: Meddo logo
+      website: http://www.bajajfinserv.in/
     - url: images/partners/insuretech/Clinikk.png
       alt: Clinikk logo
+      website:  https://www.clinikk.com/
     - url: images/partners/insuretech/CoverSelf.png
       alt: Cover Self logo
-    - url: images/partners/insuretech/truecover.jpeg
-      alt: TrueCover logo
+      website:  https://www.coverself.com/
+    - url: images/partners/insuretech/Drucare.jpeg
+      alt: DruCare logo
+      website:  https://www.dru.care/
+    - url: images/partners/insuretech/EkaCare.png
+      alt: Eka care logo
+      website:  https://www.eka.care/
     - url: images/partners/insuretech/eoxegen.png
       alt: eoxegen logo
+      website:  https://eoxegen.com/
     - url: images/partners/insuretech/ict-health.png
       alt: ict health logo
+      website: https://icthealth.com/ 
     - url: images/partners/insuretech/ihx.png
       alt: ihx logo
-    - url: images/partners/insuretech/uttam.png
-      alt: uttam logo
+      website:  https://www.ihx.in/
+    - url: images/partners/insuretech/kaksya.png
+      alt: Kaksya logo
+      website: https://kaksya.com/
+    - url: images/partners/insuretech/Meddo.jpeg
+      alt: Meddo logo
+      website:  https://meddo.in/
     - url: images/partners/insuretech/Milliman.png
       alt: Milliman logo      
-    - url: images/partners/insuretech/srishti-software.png
-      alt: srishti software logo
-    - url: images/partners/insuretech/vitraya.png
-      alt: vitraya logo
+      website:  https://in.milliman.com/en-gb
     - url: images/partners/insuretech/policy_bazaar.png
       alt: policy bazaar logo
+      website:  https://www.policybazaar.com/
+    - url: images/partners/insuretech/Practo.png
+      alt: Practo logo
+      website:  https://www.practo.com/
     - url: images/partners/insuretech/Sanketika.jpeg
       alt: Sanketika logo    
+      website:  https://sanketika.in/
+    - url: images/partners/insuretech/srishti-software.png
+      alt: srishti software logo
+      website:  https://www.srishtisoft.com/
     - url: images/partners/insuretech/thoughtworks.jpeg
       alt: ThoughtWorks logo      
+      website:  https://www.thoughtworks.com/en-in
+    - url: images/partners/insuretech/truecover.jpeg
+      alt: TrueCover logo
+      website:  https://www.truecover.net/
+    - url: images/partners/insuretech/uttam.png
+      alt: uttam logo
+      website:  
+    - url: images/partners/insuretech/vitraya.png
+      alt: vitraya logo
+      website:  https://www.vitrayatech.com/
+
 '3':
   name: TPAs and Associations
   items:
-    - url: images/partners/tpa/fhpl.png
-      alt: FHPL logo
-    - url: images/partners/tpa/medi-assist.png
-      alt: Medi-Assist logo
     - url: images/partners/associations/caho.png
       alt: CAHO logo
+      website: htt ps://www.caho.in/
+    - url: images/partners/tpa/fhpl.png
+      alt: FHPL logo
+      website: https://www.fhpl.net/
     - url: images/partners/associations/ficci.png
       alt: FICCI logo
+      website: https://www.ficci.in/
     - url: images/partners/associations/HxCo.png
       alt: HxCo logo
+      website: http://www.hxco.co/
+    - url: images/partners/tpa/medi-assist.png
+      alt: Medi-Assist logo
+      Website: https://mediassist.in/
+
 
 '4':
   name: Think Tanks and Foundations
   items:
     - url: images/partners/thinktanks/access-international.png
       alt: access international logo
+      website: https://accessh.org/
     - url: images/partners/thinktanks/bcg.png
       alt: bcg logo
+      website: http://www.bcg.com/
     - url: images/partners/thinktanks/ispirt.png
       alt: ispirt logo
-    - url: images/partners/thinktanks/swasth.png
-      alt: swasth logo
+      website: https://ispirt.in/
     - url: images/partners/community/healing-fields.png
       alt: healing fields logo
+      website: https://healing-fields.org/
+    - url: images/partners/thinktanks/swasth.png
+      alt: swasth logo
+      website: https://swasthalliance.org/
+
+
+
