@@ -2,7 +2,7 @@
 title = "Governance"
 description = 'HCX Governance'
 bannerTitle = "Governance"
-bannerSubtitle = 'Community driven, open, consulative approach'
+bannerSubtitle = 'Community driven, open, consultative approach'
 bannerUrl = "../images/gov-img.svg"
 [[cta]]
   type = 'primary'
